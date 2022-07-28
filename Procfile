@@ -1,0 +1,1 @@
+web: gnicorn config.wisgi --log-file -
